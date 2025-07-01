@@ -110,9 +110,10 @@ body {
 .skills-container-inside-module{
   width: 50%;
   /* border: 1px solid blue; */
+  /* margin-right: 5px; */
 }
 .skills-item {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 400;
   line-height: 24px;
   margin-left: 20px;
@@ -142,14 +143,14 @@ body {
   flex-wrap: wrap;
   font-size: 12px;
   font-weight: 400;
-  line-height: 20px;
+  line-height: 18px;
   /* margin-top: 24px; */
 }
 .aboutMecontainer {
   /* display: flex;
   flex-direction: column; */
   /* width: auto; */
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   /* border: 1px solid green; */
 }
 .about-me-title {
@@ -202,13 +203,13 @@ body {
   color: #000000;
 }
 .professional-duties {
-  margin-top: 14px;
+  margin-top: 5px;
   /* margin-bottom: 30px; */
 }
 .professional-duties-item {
   font-size: 12px;
   font-weight: 400;
-  line-height: 20px;
+  line-height: 18px;
   color: #2b2b2b;
   margin-left: 15px;
 }
@@ -216,7 +217,7 @@ body {
   color: #ff6b08;
   font-size: 16px;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 20px;
   /* margin-top: 20px;
   margin-bottom: 15px; */
 }
