@@ -1,1 +1,1 @@
-# taras-lyuznyak-cv-miltech
+# taras-lyuznyak-cv
