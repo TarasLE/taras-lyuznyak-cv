@@ -1,1 +1,1 @@
-# taras_lyuznyak_cv
+# taras-lyuznyak-cv
